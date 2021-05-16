@@ -1,0 +1,10 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {"tag": "minecraft:leaves"},
+    {"item": "minecraft:potion"}
+  ],
+  "result": {
+    "item": "imfeelinglucky:cold_tea"
+  }
+}
