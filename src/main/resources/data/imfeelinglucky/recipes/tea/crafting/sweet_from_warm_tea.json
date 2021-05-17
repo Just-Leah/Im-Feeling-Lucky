@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "group": "tea",
+  "ingredients": [
+    {"item": "imfeelinglucky:warm_tea"},
+    {"item": "minecraft:sugar"}
+  ],
+  "result": {
+    "item": "imfeelinglucky:sweet_warm_tea"
+  }
+}

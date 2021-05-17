@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "group": "tea",
+  "ingredient": {"item": "imfeelinglucky:sweet_warm_tea"},
+  "result": "imfeelinglucky:sweet_hot_tea",
+  "experience": 5,
+  "cookingtime": 150
+}

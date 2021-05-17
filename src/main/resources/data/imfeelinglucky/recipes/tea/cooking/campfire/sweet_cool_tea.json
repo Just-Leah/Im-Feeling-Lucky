@@ -1,0 +1,8 @@
+{
+  "type": "campfire_cooking",
+  "group": "tea",
+  "ingredient": {"item": "imfeelinglucky:sweet_cold_tea"},
+  "result": "imfeelinglucky:sweet_cool_tea",
+  "experience": 5,
+  "cookingtime": 200
+}

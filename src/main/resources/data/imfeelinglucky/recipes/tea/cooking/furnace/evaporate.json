@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "group": "tea",
+  "ingredient": {"tag": "imfeelinglucky:evaporating_tea"},
+  "result": "minecraft:glass_bottle",
+  "experience": 0,
+  "cookingtime": 200
+}

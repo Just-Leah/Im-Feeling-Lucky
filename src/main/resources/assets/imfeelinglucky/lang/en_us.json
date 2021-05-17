@@ -1,4 +1,11 @@
 {
   "item.imfeelinglucky.cold_tea": "Cold Tea",
+  "item.imfeelinglucky.cool_tea": "Cool Tea",
+  "item.imfeelinglucky.hot_tea": "Hot Tea",
+  "item.imfeelinglucky.sweet_cold_tea": "Sweet Cold Tea",
+  "item.imfeelinglucky.sweet_cool_tea": "Sweet Cool Tea",
+  "item.imfeelinglucky.sweet_hot_tea": "Sweet Hot Tea",
+  "item.imfeelinglucky.sweet_warm_tea": "Sweet Warm Tea",
+  "item.imfeelinglucky.warm_tea": "Warm Tea",
   "itemGroup.imfeelinglucky.item_group": "I'm Feeling Lucky"
 }

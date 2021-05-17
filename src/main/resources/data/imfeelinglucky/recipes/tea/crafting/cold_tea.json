@@ -1,5 +1,6 @@
 {
   "type": "crafting_shapeless",
+  "group": "tea",
   "ingredients": [
     {"tag": "minecraft:leaves"},
     {"item": "minecraft:potion"}
